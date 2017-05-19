@@ -6,6 +6,6 @@ function Start () {
 }
 
 function Update () {
-	// agora vai
+	// agora 
 
 }

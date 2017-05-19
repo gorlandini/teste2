@@ -32,3 +32,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+ProjetoTesteGit/Temp/UnityLockfile
+ProjetoTesteGit/ProjectSettings/TimeManager.asset
+ProjetoTesteGit/ProjectSettings/QualitySettings.asset
+*.asset
