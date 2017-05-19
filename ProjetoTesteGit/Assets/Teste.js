@@ -1,9 +1,11 @@
 ﻿#pragma strict
 
 function Start () {
-	Debug.Log("teste");
+	
+	// adicionado este comentario
 }
 
 function Update () {
+	// agora vai
 
 }
